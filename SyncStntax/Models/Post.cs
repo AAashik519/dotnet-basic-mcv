@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SyncStntax.Models
 {
@@ -23,6 +24,10 @@ namespace SyncStntax.Models
 
         [DataType(DataType.Date)]
         public DateTime PublishedDate { get; set; }
+        [ForeignKey("Category")]
+        public int CategoryId { get; set; }
+        public Category? Category { get; set; }
+        public ICollection<Comments>? Comments { get; set; }
 
     }
 }

@@ -14,5 +14,7 @@ namespace SyncStntax.Models
         public required string Name { get; set; }
         [Required(ErrorMessage = "Category description is required")]
         public required string Description { get; set; }
+
+        public ICollection<Post>? Posts { get; set; }
     }
 }
