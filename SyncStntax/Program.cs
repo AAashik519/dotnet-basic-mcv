@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using SyncStntax.Data;
+
 namespace SyncStntax;
 
 public class Program
@@ -8,6 +11,14 @@ public class Program
 
         // Add services to the container.
         builder.Services.AddControllersWithViews();
+        builder.Services.AddDbContext<AppDbContext>(options =>
+        {
+            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+            options.UseMySql(
+                connectionString,
+                ServerVersion.AutoDetect(connectionString)
+            );
+        });
 
         var app = builder.Build();
 
@@ -19,7 +30,10 @@ public class Program
             app.UseHsts();
         }
 
-        app.UseHttpsRedirection();
+        if (!app.Environment.IsDevelopment())
+        {
+            app.UseHttpsRedirection();
+        }
         app.UseRouting();
 
         app.UseAuthorization();

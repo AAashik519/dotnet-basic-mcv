@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {
       "Humanizer.Core/2.14.1": {
@@ -2041,29 +2041,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Al-Amin Ashik\\.nuget\\packages\\": {}
+    "/home/ashik/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Web-26\\Dotnet\\dotnet-basic-mcv\\SyncStntax\\SyncStntax.csproj",
+      "projectUniqueName": "/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/SyncStntax.csproj",
       "projectName": "SyncStntax",
-      "projectPath": "D:\\Web-26\\Dotnet\\dotnet-basic-mcv\\SyncStntax\\SyncStntax.csproj",
-      "packagesPath": "C:\\Users\\Al-Amin Ashik\\.nuget\\packages\\",
-      "outputPath": "D:\\Web-26\\Dotnet\\dotnet-basic-mcv\\SyncStntax\\obj\\",
+      "projectPath": "/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/SyncStntax.csproj",
+      "packagesPath": "/home/ashik/.nuget/packages/",
+      "outputPath": "/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Al-Amin Ashik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/ashik/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
+        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -2078,11 +2078,10 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
@@ -2119,7 +2118,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.112/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

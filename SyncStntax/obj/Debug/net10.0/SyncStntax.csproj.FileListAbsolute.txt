@@ -83,8 +83,6 @@
 /home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/compressed/p8uc01lryc-{0}-muycvpuwrr-muycvpuwrr.gz
 /home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/compressed/pkj2a8bku0-{0}-87fc7y1x7t-87fc7y1x7t.gz
 /home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/compressed/we6zozntu9-{0}-jfsiqqwiad-jfsiqqwiad.gz
-/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/compressed/o8xe3b4ltk-{0}-23wj4ldmbn-23wj4ldmbn.gz
-/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/compressed/o5xcw5hdfu-{0}-23wj4ldmbn-23wj4ldmbn.gz
 /home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/staticwebassets.build.json
 /home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/staticwebassets.build.json.cache
 /home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/staticwebassets.development.json
@@ -95,192 +93,288 @@
 /home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/SyncStntax.pdb
 /home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/SyncStntax.genruntimeconfig.cache
 /home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/ref/SyncStntax.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\appsettings.Development.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\appsettings.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\SyncStntax.staticwebassets.runtime.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\SyncStntax.staticwebassets.endpoints.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\SyncStntax.exe
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\SyncStntax.deps.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\SyncStntax.runtimeconfig.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\SyncStntax.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\SyncStntax.pdb
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Humanizer.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.Build.Locator.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Mono.TextTemplating.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\MySqlConnector.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\System.CodeDom.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\System.Composition.AttributedModel.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\System.Composition.Convention.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\System.Composition.Hosting.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\System.Composition.Runtime.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\System.Composition.TypedParts.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\SyncStntax.csproj.AssemblyReference.cache
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\rpswa.dswa.cache.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\SyncStntax.GeneratedMSBuildEditorConfig.editorconfig
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\SyncStntax.AssemblyInfoInputs.cache
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\SyncStntax.AssemblyInfo.cs
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\SyncStntax.csproj.CoreCompileInputs.cache
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\SyncStntax.MvcApplicationPartsAssemblyInfo.cache
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\SyncStntax.RazorAssemblyInfo.cache
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\SyncStntax.RazorAssemblyInfo.cs
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\SyncStntax.sourcelink.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\rjimswa.dswa.cache.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\scopedcss\bundle\SyncStntax.styles.css
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\scopedcss\projectbundle\SyncStntax.bundle.scp.css
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\uy9j14wrku-{0}-b9sayid5wm-b9sayid5wm.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\ecgqza2ks2-{0}-61n19gt1b8-61n19gt1b8.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\gkzn0d47y5-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\oj0oovdrym-{0}-t1cqhe9u97-t1cqhe9u97.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\gyafrf7pdl-{0}-c2jlpeoesf-c2jlpeoesf.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\m4ur3y37eg-{0}-sejl45xvog-sejl45xvog.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\e2y55a6in1-{0}-aexeepp0ev-aexeepp0ev.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\slfxx433pn-{0}-xvp3kq03qx-xvp3kq03qx.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\r81gp9y0ux-{0}-ausgxo2sd3-ausgxo2sd3.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\ke8iczydcv-{0}-22vffe00uq-22vffe00uq.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\yi37629dmc-{0}-cosvhxvwiu-cosvhxvwiu.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\315q0id7im-{0}-qesaa3a1fm-qesaa3a1fm.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\mz49pal93j-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\v51kevx75h-{0}-tmc1g35s3z-tmc1g35s3z.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\ibyz8fl5cl-{0}-fsbi9cje9m-fsbi9cje9m.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\gcncancjvp-{0}-rxsg74s51o-rxsg74s51o.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\fwflcsh8pt-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\r3vgkcwmwo-{0}-q9ht133ko3-q9ht133ko3.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\9m5r2fc5y8-{0}-jd9uben2k1-jd9uben2k1.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\n2zrgzr1ae-{0}-gye83jo8yx-gye83jo8yx.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\ns58ejy05c-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\e5sru9uoow-{0}-wl58j5mj3v-wl58j5mj3v.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\lsxl460qqp-{0}-c2oey78nd0-c2oey78nd0.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\hm0tm36tze-{0}-d4r6k3f320-d4r6k3f320.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\fv7warj4me-{0}-j5mq2jizvt-j5mq2jizvt.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\x0hj3pnkjo-{0}-keugtjm085-keugtjm085.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\b4im1fxz4w-{0}-nvvlpmu67g-nvvlpmu67g.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\sylbaxctjb-{0}-zub09dkrxp-zub09dkrxp.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\n8w6f3v92r-{0}-pj5nd1wqec-pj5nd1wqec.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\y03kvv5zn8-{0}-43atpzeawx-43atpzeawx.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\99j4l0k9nu-{0}-v0zj4ognzu-v0zj4ognzu.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\3io8cwufi1-{0}-ynyaa8k90p-ynyaa8k90p.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\owu7x27qmy-{0}-hrwsygsryq-hrwsygsryq.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\t5wbw2i494-{0}-c63t5i9ira-c63t5i9ira.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\3rvz8vyukj-{0}-ft3s53vfgj-ft3s53vfgj.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\pvrp7bpf33-{0}-4094rpi4f9-4094rpi4f9.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\es8ns8v1im-{0}-6pdc2jztkx-6pdc2jztkx.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\4ry64cbyk9-{0}-hd3gran6i8-hd3gran6i8.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\n9k3hgeqhq-{0}-iovd86k7lj-iovd86k7lj.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\5ojy4y01yl-{0}-ltid2c489k-ltid2c489k.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\uwozx9qcmg-{0}-kbrnm935zg-kbrnm935zg.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\xv03db1mdz-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\nq3asy7dap-{0}-y7v9cxd14o-y7v9cxd14o.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\2mjmv7ppbb-{0}-u9q1upor1n-u9q1upor1n.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\q2zs4hdfcb-{0}-h1s4sie4z3-h1s4sie4z3.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\13qnn7clfb-{0}-4d85u1mtcx-4d85u1mtcx.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\mjxo59s8tx-{0}-0j3bgjxly4-0j3bgjxly4.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\nap8gofdkm-{0}-03hjc8e09r-03hjc8e09r.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\pwepk336k5-{0}-48y08845bh-48y08845bh.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\75txxsjfu0-{0}-356vix0kms-356vix0kms.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\3pqfbau9ls-{0}-83jwlth58m-83jwlth58m.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\bn7535rhn6-{0}-mrlpezrjn3-mrlpezrjn3.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\xxfdvilmcm-{0}-worgj0nhwm-worgj0nhwm.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\8mc2bje3rg-{0}-gk0pw8i4co-gk0pw8i4co.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\tkjv54i9m1-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\2zw78zny12-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\171ac5wkqv-{0}-m9qm4tazc0-m9qm4tazc0.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\qgfwvbivhs-{0}-ttgo8qnofa-ttgo8qnofa.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\k6qbq7byoy-{0}-jjsuc0puko-jjsuc0puko.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\p8uc01lryc-{0}-9vr69e8ynj-9vr69e8ynj.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\pkj2a8bku0-{0}-87fc7y1x7t-87fc7y1x7t.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\we6zozntu9-{0}-mlv21k5csn-mlv21k5csn.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\o8xe3b4ltk-{0}-tm7b36k8t8-tm7b36k8t8.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\compressed\o5xcw5hdfu-{0}-tm7b36k8t8-tm7b36k8t8.gz
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\staticwebassets.build.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\staticwebassets.build.json.cache
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\staticwebassets.development.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\staticwebassets.build.endpoints.json
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\swae.build.ex.cache
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\SyncStntax.csproj.Up2Date
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\SyncStntax.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\refint\SyncStntax.dll
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\SyncStntax.pdb
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\SyncStntax.genruntimeconfig.cache
-D:\Web-26\Dotnet\dotnet-basic-mcv\SyncStntax\obj\Debug\net10.0\ref\SyncStntax.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/appsettings.Development.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/appsettings.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/SyncStntax.staticwebassets.runtime.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/SyncStntax.staticwebassets.endpoints.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/SyncStntax.exe
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/SyncStntax.deps.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/SyncStntax.runtimeconfig.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/SyncStntax.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/SyncStntax.pdb
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Humanizer.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.Build.Locator.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Mono.TextTemplating.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/MySqlConnector.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/Pomelo.EntityFrameworkCore.MySql.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/System.CodeDom.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/System.Composition.Convention.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/System.Composition.Hosting.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/System.Composition.Runtime.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/System.Composition.TypedParts.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/SyncStntax.csproj.AssemblyReference.cache
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/rpswa.dswa.cache.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/SyncStntax.GeneratedMSBuildEditorConfig.editorconfig
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/SyncStntax.AssemblyInfoInputs.cache
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/SyncStntax.AssemblyInfo.cs
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/SyncStntax.csproj.CoreCompileInputs.cache
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/SyncStntax.MvcApplicationPartsAssemblyInfo.cache
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/SyncStntax.RazorAssemblyInfo.cache
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/SyncStntax.RazorAssemblyInfo.cs
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/SyncStntax.sourcelink.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/rjimswa.dswa.cache.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/scopedcss/bundle/SyncStntax.styles.css
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/scopedcss/projectbundle/SyncStntax.bundle.scp.css
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/uy9j14wrku-{0}-b9sayid5wm-b9sayid5wm.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/ecgqza2ks2-{0}-61n19gt1b8-61n19gt1b8.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/gkzn0d47y5-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/oj0oovdrym-{0}-t1cqhe9u97-t1cqhe9u97.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/gyafrf7pdl-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/m4ur3y37eg-{0}-sejl45xvog-sejl45xvog.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/e2y55a6in1-{0}-aexeepp0ev-aexeepp0ev.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/slfxx433pn-{0}-xvp3kq03qx-xvp3kq03qx.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/r81gp9y0ux-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/ke8iczydcv-{0}-22vffe00uq-22vffe00uq.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/yi37629dmc-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/315q0id7im-{0}-qesaa3a1fm-qesaa3a1fm.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/mz49pal93j-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/v51kevx75h-{0}-tmc1g35s3z-tmc1g35s3z.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/ibyz8fl5cl-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/gcncancjvp-{0}-rxsg74s51o-rxsg74s51o.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/fwflcsh8pt-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/r3vgkcwmwo-{0}-q9ht133ko3-q9ht133ko3.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/9m5r2fc5y8-{0}-jd9uben2k1-jd9uben2k1.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/n2zrgzr1ae-{0}-gye83jo8yx-gye83jo8yx.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/ns58ejy05c-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/e5sru9uoow-{0}-wl58j5mj3v-wl58j5mj3v.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/lsxl460qqp-{0}-c2oey78nd0-c2oey78nd0.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/hm0tm36tze-{0}-d4r6k3f320-d4r6k3f320.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/fv7warj4me-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/x0hj3pnkjo-{0}-keugtjm085-keugtjm085.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/b4im1fxz4w-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/sylbaxctjb-{0}-zub09dkrxp-zub09dkrxp.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/n8w6f3v92r-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/y03kvv5zn8-{0}-43atpzeawx-43atpzeawx.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/99j4l0k9nu-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/3io8cwufi1-{0}-ynyaa8k90p-ynyaa8k90p.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/owu7x27qmy-{0}-hrwsygsryq-hrwsygsryq.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/t5wbw2i494-{0}-c63t5i9ira-c63t5i9ira.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/3rvz8vyukj-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/pvrp7bpf33-{0}-4094rpi4f9-4094rpi4f9.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/es8ns8v1im-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/4ry64cbyk9-{0}-hd3gran6i8-hd3gran6i8.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/n9k3hgeqhq-{0}-iovd86k7lj-iovd86k7lj.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/5ojy4y01yl-{0}-ltid2c489k-ltid2c489k.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/uwozx9qcmg-{0}-kbrnm935zg-kbrnm935zg.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/xv03db1mdz-{0}-8vyfqsqgz1-8vyfqsqgz1.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/nq3asy7dap-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/2mjmv7ppbb-{0}-u9q1upor1n-u9q1upor1n.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/q2zs4hdfcb-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/13qnn7clfb-{0}-4d85u1mtcx-4d85u1mtcx.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/mjxo59s8tx-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/nap8gofdkm-{0}-03hjc8e09r-03hjc8e09r.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/pwepk336k5-{0}-48y08845bh-48y08845bh.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/75txxsjfu0-{0}-356vix0kms-356vix0kms.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/3pqfbau9ls-{0}-83jwlth58m-83jwlth58m.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/bn7535rhn6-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/xxfdvilmcm-{0}-worgj0nhwm-worgj0nhwm.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/8mc2bje3rg-{0}-gk0pw8i4co-gk0pw8i4co.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/tkjv54i9m1-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/2zw78zny12-{0}-d6nrnj6jjx-d6nrnj6jjx.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/171ac5wkqv-{0}-m9qm4tazc0-m9qm4tazc0.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/qgfwvbivhs-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/k6qbq7byoy-{0}-jjsuc0puko-jjsuc0puko.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/p8uc01lryc-{0}-9vr69e8ynj-9vr69e8ynj.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/pkj2a8bku0-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/we6zozntu9-{0}-mlv21k5csn-mlv21k5csn.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/o8xe3b4ltk-{0}-tm7b36k8t8-tm7b36k8t8.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/compressed/o5xcw5hdfu-{0}-tm7b36k8t8-tm7b36k8t8.gz
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/staticwebassets.build.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/staticwebassets.build.json.cache
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/staticwebassets.development.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/swae.build.ex.cache
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/SyncStntax.csproj.Up2Date
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/SyncStntax.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/refint/SyncStntax.dll
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/SyncStntax.pdb
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/SyncStntax.genruntimeconfig.cache
+D:/Web-26/Dotnet/dotnet-basic-mcv/SyncStntax/obj/Debug/net10.0/ref/SyncStntax.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Humanizer.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.Build.Locator.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Mono.TextTemplating.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/MySqlConnector.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/System.CodeDom.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/System.Composition.Convention.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/System.Composition.Hosting.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/System.Composition.Runtime.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/SyncStntax.csproj.AssemblyReference.cache
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/SyncStntax.sourcelink.json
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/SyncStntax.csproj.Up2Date
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/compressed/kuyszl3i7n-{0}-hth5gkctrr-hth5gkctrr.gz
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/compressed/k8rc24lpsr-{0}-ge2yle0d7k-ge2yle0d7k.gz
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/compressed/o8xe3b4ltk-{0}-vbi24g3hpl-vbi24g3hpl.gz
+/home/ashik/Ashik Workspaces/Learn-dotnet/Dotnet-project/SyncStntax/SyncStntax/obj/Debug/net10.0/compressed/o5xcw5hdfu-{0}-vbi24g3hpl-vbi24g3hpl.gz

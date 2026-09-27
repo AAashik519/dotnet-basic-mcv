@@ -12,8 +12,9 @@ namespace SyncStntax.Models
         public required int Id { get; set; }
         [Required(ErrorMessage = "Category name is required")]
         public required string Name { get; set; }
-        [Required(ErrorMessage = "Category description is required")]
-        public required string Description { get; set; }
+
+        [StringLength(200, ErrorMessage = "Description cannot exceed 200 characters")]
+        public  string? Description { get; set; }
 
         public ICollection<Post>? Posts { get; set; }
     }
